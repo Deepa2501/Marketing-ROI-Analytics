@@ -1,3 +1,15 @@
+-- ==========================================================
+-- Marketing ROI & A/B Testing Analytics
+-- SQL Business Analysis
+-- Author: Deepa
+-- Database: PostgreSQL
+-- Total Records: 55,555
+--
+-- Objective:
+-- Analyze marketing campaign performance and generate
+-- business insights using SQL.
+-- ==========================================================
+
 -- Query 1 — Total Revenue
 -- Business Question:
 -- What is the total revenue generated from all marketing campaigns?
