@@ -156,7 +156,7 @@ Features
 - Top Campaigns
 - Interactive Filters
 
-> *(Insert executive_overview.png here)*
+> ![Page 1](executive_overview.png)
 
 ---
 
@@ -171,7 +171,7 @@ Features
 - ROI Comparison
 - Engagement Analysis
 
-> *(Insert campaign_performance.png here)*
+> ![Page 2](campaign_performance.png)
 
 ---
 
@@ -186,7 +186,7 @@ Features
 - Channel Performance Matrix
 - Executive Business Insights
 
-> *(Insert customer_marketing_insights.png here)*
+> ![Page 3](customer_marketing_insights.png) 
 
 ---
 
@@ -276,7 +276,9 @@ using Microsoft Power BI Desktop.
 
 # 📷 Dashboard Preview
 
-(Add your three dashboard screenshots here.)![alt text](customer_marketing_insights.png) ![alt text](campaign_performance.png) ![alt text](executive_overview.png)
+![Page 3](customer_marketing_insights.png) 
+![Page 2](campaign_performance.png) 
+![Page 1](executive_overview.png)
 
 ---
 
