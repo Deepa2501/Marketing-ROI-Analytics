@@ -8,13 +8,8 @@ file_path = "data/cleaned/marketing_campaign_dataset.xlsx"
 df = pd.read_excel(file_path)
 
 print("Dataset Shape:", df.shape)
-
 print("\nColumns:")
 print(df.columns.tolist())
-
-print("\nCampaign Types:")
-print(df["Campaign_Type"].unique())
-
 # ---------------------------------------------
 # A/B-STYLE TEST: SOCIAL MEDIA vs PAID ADS
 # ---------------------------------------------
