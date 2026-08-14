@@ -1,0 +1,177 @@
+Feature,Importance
+numeric__Duration,0.29208237926637204
+categorical__Customer_Segment_Working Women,0.04991835976578262
+categorical__Language_Hindi,0.03604419669116775
+categorical__Campaign_Type_Email,0.03427041181515557
+categorical__Campaign_Type_SEO,0.03341146967870611
+categorical__Target_Audience_College Students,0.033164313355676905
+categorical__Language_Bengali,0.03212494958544029
+categorical__Language_English,0.03165516114582774
+categorical__Campaign_Type_Influencer,0.031243035840690315
+categorical__Target_Audience_Youth,0.03038497608888523
+categorical__Target_Audience_Working Women,0.03018854126876599
+categorical__Campaign_Type_Social Media,0.029984186891574987
+categorical__Campaign_Type_Paid Ads,0.029310489307268674
+categorical__Language_Tamil,0.02871171658085809
+categorical__Customer_Segment_Tier 2 City Customers,0.02831626577266899
+categorical__Customer_Segment_Youth,0.027145888657773086
+categorical__Customer_Segment_Premium Shoppers,0.027048314282146074
+categorical__Customer_Segment_College Students,0.025701615868724204
+categorical__Target_Audience_Premium Shoppers,0.025697194808349994
+categorical__Target_Audience_Tier 2 City Customers,0.023750620064174593
+"categorical__Channel_Used_YouTube, Google, Email",0.007739217153753569
+"categorical__Channel_Used_Google, Facebook, YouTube",0.00551767639365817
+"categorical__Channel_Used_Email, WhatsApp, Facebook",0.004987674920209125
+"categorical__Channel_Used_Instagram, WhatsApp, Google",0.003233364941960147
+"categorical__Channel_Used_Google, Email",0.0026522143462202065
+"categorical__Channel_Used_Email, Google, WhatsApp",0.0024061129163524377
+"categorical__Channel_Used_Instagram, Facebook, YouTube",0.002390063329997886
+"categorical__Channel_Used_Google, Instagram, Email",0.002361314563819904
+"categorical__Channel_Used_Email, WhatsApp, Instagram",0.002285207579128894
+"categorical__Channel_Used_Email, Facebook, WhatsApp",0.0022770962388388625
+"categorical__Channel_Used_YouTube, Facebook, Instagram",0.0022460901690649683
+"categorical__Channel_Used_Instagram, YouTube",0.0022424794180323174
+"categorical__Channel_Used_Facebook, Google, WhatsApp",0.0022257597691687767
+"categorical__Channel_Used_YouTube, WhatsApp",0.0020541947723946535
+"categorical__Channel_Used_YouTube, Instagram",0.0019884740875572514
+"categorical__Channel_Used_Facebook, Instagram, Google",0.0019270136617263677
+"categorical__Channel_Used_WhatsApp, Facebook",0.0018232989039777695
+"categorical__Channel_Used_WhatsApp, Instagram, YouTube",0.0017693883397309448
+"categorical__Channel_Used_YouTube, Google, WhatsApp",0.0017068436198375166
+"categorical__Channel_Used_Instagram, WhatsApp",0.0015049275899183137
+"categorical__Channel_Used_Facebook, Email, WhatsApp",0.0014120216346420692
+"categorical__Channel_Used_Google, YouTube, WhatsApp",0.0013782057090908713
+"categorical__Channel_Used_Instagram, Email, WhatsApp",0.0012882283202224614
+"categorical__Channel_Used_Google, Facebook",0.0012686233171217314
+"categorical__Channel_Used_Email, Instagram",0.0011866851843013188
+"categorical__Channel_Used_Instagram, WhatsApp, Facebook",0.0011835409861639034
+categorical__Channel_Used_WhatsApp,0.0011504116426286758
+"categorical__Channel_Used_YouTube, Facebook, Google",0.0011068290477616184
+"categorical__Channel_Used_Facebook, YouTube, Email",0.0010808369595122916
+"categorical__Channel_Used_Instagram, Google, Email",0.0010593375097298677
+"categorical__Channel_Used_Email, Instagram, Facebook",0.001051204255132324
+"categorical__Channel_Used_Email, Google, YouTube",0.0010280728639095037
+"categorical__Channel_Used_Email, Facebook, Google",0.0010212475100646135
+"categorical__Channel_Used_Google, Instagram, Facebook",0.0010195771494516152
+"categorical__Channel_Used_YouTube, Google, Facebook",0.0009712510325031674
+"categorical__Channel_Used_Facebook, WhatsApp, Instagram",0.0009101397866327787
+"categorical__Channel_Used_Instagram, Facebook, Google",0.0009079966988571836
+"categorical__Channel_Used_YouTube, Instagram, WhatsApp",0.0008877523044165038
+"categorical__Channel_Used_Email, Google, Facebook",0.0008785671815275575
+"categorical__Channel_Used_Google, Instagram",0.0008539771211516668
+"categorical__Channel_Used_YouTube, Google",0.0008494356409865616
+"categorical__Channel_Used_WhatsApp, YouTube, Instagram",0.0008395422316549371
+"categorical__Channel_Used_Instagram, Google, YouTube",0.0008368487224546489
+categorical__Channel_Used_Facebook,0.000827520970415675
+categorical__Channel_Used_YouTube,0.000823539226435734
+"categorical__Channel_Used_Google, YouTube",0.000800768244168691
+"categorical__Channel_Used_Facebook, Google, Instagram",0.0007946770693445968
+"categorical__Channel_Used_Google, Email, Facebook",0.0007707246649347715
+"categorical__Channel_Used_WhatsApp, Instagram, Email",0.0007634631346605793
+"categorical__Channel_Used_YouTube, WhatsApp, Instagram",0.0007417283723710317
+"categorical__Channel_Used_Email, YouTube, Facebook",0.0007253840223084667
+"categorical__Channel_Used_Facebook, Google, YouTube",0.0007161775779317839
+"categorical__Channel_Used_Instagram, YouTube, WhatsApp",0.0006855413825749003
+categorical__Channel_Used_Email,0.0006654334239025889
+"categorical__Channel_Used_YouTube, Google, Instagram",0.0006604791589289176
+"categorical__Channel_Used_Email, Instagram, WhatsApp",0.0006424261723105422
+"categorical__Channel_Used_Email, YouTube, Instagram",0.0006411111732766387
+"categorical__Channel_Used_YouTube, Instagram, Facebook",0.0006370606781376706
+"categorical__Channel_Used_YouTube, Facebook",0.0006358290723198878
+"categorical__Channel_Used_Instagram, Google, WhatsApp",0.000614714728961619
+"categorical__Channel_Used_Facebook, Instagram, Email",0.000613355949641495
+"categorical__Channel_Used_Email, YouTube, Google",0.0006131364607843044
+"categorical__Channel_Used_WhatsApp, YouTube, Google",0.0006020433403864353
+"categorical__Channel_Used_WhatsApp, Email, Google",0.0005898712383512469
+"categorical__Channel_Used_Google, Email, YouTube",0.0005887365833760146
+"categorical__Channel_Used_YouTube, WhatsApp, Email",0.0005794770168027891
+"categorical__Channel_Used_Instagram, Google",0.0005637121682151203
+categorical__Channel_Used_Instagram,0.0005369293801138381
+"categorical__Channel_Used_YouTube, Email, Google",0.0005333022390064032
+"categorical__Channel_Used_Instagram, Facebook, WhatsApp",0.0005211366595360007
+"categorical__Channel_Used_Facebook, WhatsApp",0.000518856156492055
+"categorical__Channel_Used_YouTube, Email",0.0005148213320055599
+"categorical__Channel_Used_WhatsApp, Facebook, Instagram",0.0005063294004865285
+"categorical__Channel_Used_Email, WhatsApp, Google",0.0005033663922348668
+"categorical__Channel_Used_Email, YouTube",0.0005001583867025763
+"categorical__Channel_Used_YouTube, Email, Instagram",0.000499606212475025
+"categorical__Channel_Used_Google, WhatsApp",0.0004866481707297107
+"categorical__Channel_Used_WhatsApp, Facebook, Google",0.0004759159395166118
+"categorical__Channel_Used_Facebook, YouTube, Google",0.0004751952540185412
+"categorical__Channel_Used_Facebook, YouTube, WhatsApp",0.0004748137177846274
+categorical__Channel_Used_Google,0.0004746548349741019
+"categorical__Channel_Used_Instagram, YouTube, Google",0.00047363869149930673
+"categorical__Channel_Used_WhatsApp, Email, Instagram",0.0004678989809079978
+"categorical__Channel_Used_Google, Facebook, WhatsApp",0.000456629336621777
+"categorical__Channel_Used_Facebook, Email, YouTube",0.00045390518395136293
+"categorical__Channel_Used_WhatsApp, Instagram",0.00043417733055702246
+"categorical__Channel_Used_WhatsApp, Google",0.0004309270447578858
+"categorical__Channel_Used_Instagram, Email",0.00041667268034389796
+"categorical__Channel_Used_Google, YouTube, Email",0.000413352493525242
+"categorical__Channel_Used_Google, YouTube, Facebook",0.0004127567066695477
+"categorical__Channel_Used_Facebook, Email, Instagram",0.00040844751715395593
+"categorical__Channel_Used_Facebook, YouTube",0.000378925788011479
+"categorical__Channel_Used_Google, YouTube, Instagram",0.00037392895254950297
+"categorical__Channel_Used_Email, Google",0.0003671430311964411
+"categorical__Channel_Used_YouTube, Instagram, Google",0.0003644402875548233
+"categorical__Channel_Used_Facebook, WhatsApp, YouTube",0.0003492875940481361
+"categorical__Channel_Used_Instagram, WhatsApp, Email",0.00033320566361248456
+"categorical__Channel_Used_Google, Facebook, Email",0.000332888229155838
+"categorical__Channel_Used_Facebook, Instagram, WhatsApp",0.0003315262734744967
+"categorical__Channel_Used_Google, WhatsApp, Email",0.000324683996550331
+"categorical__Channel_Used_Instagram, Google, Facebook",0.0003216022667896243
+"categorical__Channel_Used_Instagram, Facebook",0.0003093726864724622
+"categorical__Channel_Used_Email, YouTube, WhatsApp",0.00030920525043545694
+"categorical__Channel_Used_Google, WhatsApp, Instagram",0.0003049013973333919
+"categorical__Channel_Used_Google, Email, Instagram",0.0003034266679059461
+"categorical__Channel_Used_WhatsApp, Facebook, Email",0.0002987047271985795
+"categorical__Channel_Used_Email, WhatsApp",0.00029076924172089506
+"categorical__Channel_Used_WhatsApp, Instagram, Facebook",0.0002785035362055758
+"categorical__Channel_Used_Instagram, YouTube, Facebook",0.00027625891568052314
+"categorical__Channel_Used_WhatsApp, YouTube",0.0002685368551009639
+"categorical__Channel_Used_YouTube, Facebook, Email",0.00026565315774523444
+"categorical__Channel_Used_Google, Instagram, WhatsApp",0.00026503067611957615
+"categorical__Channel_Used_WhatsApp, Email",0.00026202036205005304
+"categorical__Channel_Used_WhatsApp, Email, YouTube",0.00025952219328770034
+"categorical__Channel_Used_YouTube, WhatsApp, Facebook",0.0002495686869382415
+"categorical__Channel_Used_Facebook, Google",0.0002448994852335348
+"categorical__Channel_Used_Google, Email, WhatsApp",0.00023750877290400874
+"categorical__Channel_Used_Email, Instagram, Google",0.0002339573470961582
+"categorical__Channel_Used_WhatsApp, YouTube, Facebook",0.00022621891879295942
+"categorical__Channel_Used_Instagram, YouTube, Email",0.00021600316151391329
+"categorical__Channel_Used_Email, Facebook",0.00021244299874801574
+"categorical__Channel_Used_Facebook, Instagram",0.0002121352166520396
+"categorical__Channel_Used_Google, WhatsApp, YouTube",0.00019754132715096837
+"categorical__Channel_Used_Email, Instagram, YouTube",0.00018332816783222066
+"categorical__Channel_Used_Facebook, Google, Email",0.00017818272518452347
+"categorical__Channel_Used_Instagram, Facebook, Email",0.00017728318629034844
+"categorical__Channel_Used_Facebook, WhatsApp, Email",0.00016229465417930128
+"categorical__Channel_Used_Instagram, Email, Facebook",0.00015907908824458426
+"categorical__Channel_Used_YouTube, Email, WhatsApp",0.00014578607473411304
+"categorical__Channel_Used_Instagram, Email, YouTube",0.00014290433112447632
+"categorical__Channel_Used_Instagram, WhatsApp, YouTube",0.00013745209983119887
+"categorical__Channel_Used_WhatsApp, Email, Facebook",0.00013522555600370398
+"categorical__Channel_Used_YouTube, WhatsApp, Google",0.00013325437787073044
+"categorical__Channel_Used_Facebook, Email",0.0001245164670145718
+"categorical__Channel_Used_WhatsApp, YouTube, Email",0.00011886473800413088
+"categorical__Channel_Used_Email, WhatsApp, YouTube",0.00011708736168287232
+"categorical__Channel_Used_WhatsApp, Instagram, Google",0.00011357463488305084
+"categorical__Channel_Used_WhatsApp, Google, Instagram",0.00011167180562758508
+"categorical__Channel_Used_Google, WhatsApp, Facebook",0.00010876328618368035
+"categorical__Channel_Used_WhatsApp, Google, Email",0.00010530413844631228
+"categorical__Channel_Used_Facebook, Instagram, YouTube",0.00010492986425398726
+"categorical__Channel_Used_Email, Facebook, YouTube",9.710742197194842e-05
+"categorical__Channel_Used_Email, Google, Instagram",9.55650321575405e-05
+"categorical__Channel_Used_YouTube, Facebook, WhatsApp",9.50294395057216e-05
+"categorical__Channel_Used_WhatsApp, Google, Facebook",9.336118741130807e-05
+"categorical__Channel_Used_Instagram, Email, Google",8.961467004288324e-05
+"categorical__Channel_Used_WhatsApp, Facebook, YouTube",7.445881342598187e-05
+"categorical__Channel_Used_Facebook, Email, Google",7.250426929974428e-05
+"categorical__Channel_Used_Google, Facebook, Instagram",7.222820462339471e-05
+"categorical__Channel_Used_Email, Facebook, Instagram",6.025048169525868e-05
+"categorical__Channel_Used_WhatsApp, Google, YouTube",6.024163049325145e-05
+"categorical__Channel_Used_Facebook, WhatsApp, Google",5.224432910294547e-05
+"categorical__Channel_Used_YouTube, Email, Facebook",4.770535947854092e-05
+"categorical__Channel_Used_YouTube, Instagram, Email",4.443857914533434e-05
+"categorical__Channel_Used_Facebook, YouTube, Instagram",3.605022514427208e-05
+"categorical__Channel_Used_Google, Instagram, YouTube",0.0
