@@ -276,9 +276,16 @@ using Microsoft Power BI Desktop.
 
 # 📷 Dashboard Preview
 
-![Page 3](customer_marketing_insights.png) 
-![Page 2](campaign_performance.png) 
-![Page 1](executive_overview.png)
+# 📷 Dashboard Preview
+
+## Executive Overview
+![Executive Overview Dashboard](screenshots/executive_overview.png)
+
+## Campaign Performance
+![Campaign Performance Dashboard](screenshots/campaign_performance.png)
+
+## Customer & Marketing Insights
+![Customer & Marketing Insights Dashboard](screenshots/Customer_&_Marketing_Insights.png)
 
 ---
 
