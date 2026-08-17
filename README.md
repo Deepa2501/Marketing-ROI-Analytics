@@ -156,7 +156,7 @@ Features
 - Top Campaigns
 - Interactive Filters
 
-> ![Page 1](executive_overview.png)
+>  ![Executive Overview Dashboard](screenshots/executive_overview.png)
 
 ---
 
@@ -171,7 +171,7 @@ Features
 - ROI Comparison
 - Engagement Analysis
 
-> ![Page 2](campaign_performance.png)
+> ![Campaign Performance Dashboard](screenshots/campaign_performance.png)
 
 ---
 
@@ -186,7 +186,7 @@ Features
 - Channel Performance Matrix
 - Executive Business Insights
 
-> ![Page 3](customer_marketing_insights.png) 
+> ![Customer & Marketing Insights Dashboard](screenshots/Customer_&_Marketing_Insights.png)
 
 ---
 
@@ -273,8 +273,6 @@ Marketing_ROI_Analytics.pbix
 using Microsoft Power BI Desktop.
 
 ---
-
-# 📷 Dashboard Preview
 
 # 📷 Dashboard Preview
 
