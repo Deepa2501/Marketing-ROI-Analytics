@@ -39,32 +39,62 @@ This project solves that problem by building a complete Business Intelligence so
 # 📂 Project Structure
 
 ```text
-Marketing-ROI-Analytics
+Marketing-ROI-Analytics/
 │
-├── data/
-│   ├── marketing_roi_raw.xlsx
-│   └── marketing_campaign_cleaned.xlsx
+├── 📁 data/
+│   ├── 📁 raw/                  # Raw marketing campaign data
+│   └── 📁 cleaned/              # Cleaned & analysis-ready data
 │
-├── python/
+├── 📁 python/                   # Python analytics & ML pipeline
 │   ├── etl.py
-│   └── cleaning.py
+│   ├── cleaning.py
+│   ├── eda.py
+│   ├── statistical_analysis.py
+│   ├── ab_testing.py
+│   ├── roi_prediction.py
+│   ├── early_roi_prediction.py
+│   ├── cost_only_model.py
+│   ├── strategy_roi_prediction.py
+│   ├── roi_leakage_check.py
+│   └── ml_visualization.py
 │
-├── sql/
+├── 📁 sql/                      # PostgreSQL database & analytics
 │   ├── schema.sql
-│   ├── import.sql
-│   └── analysis_queries.sql
+│   ├── analysis.sql
+│   ├── advanced_analysis.sql
+│   └── kpi_queries.sql
 │
-├── powerbi/
+├── 📁 powerbi/
 │   └── Marketing_ROI_Analytics.pbix
 │
-├── screenshots/
+├── 📁 screenshots/              # Power BI dashboard previews
 │   ├── executive_overview.png
 │   ├── campaign_performance.png
-│   └── customer_marketing_insights.png
+│   └── Customer_&_Marketing_Insights.png
 │
-├── README.md
-├── requirements.txt
-└── LICENSE
+├── 📁 reports/                  # Generated analytics & ML outputs
+│   ├── EDA visualizations
+│   ├── ROI analysis results
+│   ├── Model comparison results
+│   ├── Feature importance results
+│   ├── Prediction outputs
+│   ├── Residual & error analysis
+│   └── A/B testing visualizations
+│
+├── 📁 docs/
+│   └── Data_Dictionary.md
+│
+├── 📁 dashboard/                # Dashboard workspace
+├── 📁 excel/                   # Excel analysis workspace
+├── 📁 images/                  # Supporting project images
+├── 📁 ml/                      # Machine Learning workspace
+└── 📁 workflow/                # Project workflow resources
+│
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📄 LICENSE
+├── 📄 .gitignore
+└── 📄 data - Shortcut.lnk
 ```
 
 ---
@@ -233,7 +263,7 @@ This dashboard helps marketing teams to:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Marketing-ROI-Analytics.git
+git clone https://github.com/Deepa2501/Marketing-ROI-Analytics.git
 ```
 
 ### Install Dependencies
@@ -256,12 +286,6 @@ Execute
 schema.sql
 ```
 
-and
-
-```text
-import.sql
-```
-
 ### Open Dashboard
 
 Open
@@ -271,19 +295,6 @@ Marketing_ROI_Analytics.pbix
 ```
 
 using Microsoft Power BI Desktop.
-
----
-
-# 📷 Dashboard Preview
-
-## Executive Overview
-![Executive Overview Dashboard](screenshots/executive_overview.png)
-
-## Campaign Performance
-![Campaign Performance Dashboard](screenshots/campaign_performance.png)
-
-## Customer & Marketing Insights
-![Customer & Marketing Insights Dashboard](screenshots/Customer_&_Marketing_Insights.png)
 
 ---
 
@@ -297,7 +308,7 @@ This project is licensed under the MIT License.
 
 **Deepa Saxena**
 
-Data Analyst | Python | SQL | PostgreSQL | Power BI | Excel
+Data Analyst | Python | SQL | PostgreSQL | Power BI | Excel | Machine Learning
 
 GitHub: https://github.com/Deepa2501
 
