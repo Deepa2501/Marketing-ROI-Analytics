@@ -380,17 +380,6 @@ ml_visualization.py
 
 The Power BI dashboard converts analytical results into an interactive Business Intelligence solution for executive and marketing performance analysis.
 
-The dashboard includes multiple pages covering:
-
-* Executive performance
-* Campaign performance
-* Customer and marketing insights
-* Revenue trends
-* ROI analysis
-* Marketing funnel
-* Channel performance
-* Customer segment analysis
-
 ---
 
 # 📄 Dashboard 1 — Executive Overview
@@ -399,20 +388,20 @@ The Executive Overview provides a high-level summary of overall marketing perfor
 
 ### Key Features
 
-* KPI Cards
-* Total Revenue
-* Average ROI
-* Total Campaigns
-* Revenue Trend
-* Revenue by Campaign Type
-* Revenue by Marketing Channel
-* Customer Segment Analysis
-* Top Campaigns
-* Interactive Filters
+- KPI Cards
+- Total Revenue
+- Average ROI
+- Total Campaigns
+- Revenue Trend
+- Revenue by Campaign Type
+- Revenue by Marketing Channel
+- Customer Segment Analysis
+- Top Campaigns
+- Interactive Filters
 
 ### Dashboard Preview
 
-![Executive Overview Dashboard](screenshots/executive_overview.png)
+![Executive Overview Dashboard](screenshots/Executive_Overview.png)
 
 ---
 
@@ -422,17 +411,17 @@ The Campaign Performance dashboard focuses on campaign-level and channel-level e
 
 ### Key Features
 
-* Campaign Performance
-* Marketing Channel Analysis
-* ROI Comparison
-* Target Audience Performance
-* Language Analysis
-* Engagement Analysis
-* Campaign Effectiveness
+- Campaign Performance
+- Marketing Channel Analysis
+- ROI Comparison
+- Target Audience Performance
+- Language Analysis
+- Engagement Analysis
+- Campaign Effectiveness
 
 ### Dashboard Preview
 
-![Campaign Performance Dashboard](screenshots/campaign_performance.png)
+![Campaign Performance Dashboard](screenshots/Campaign_performance.png)
 
 ---
 
@@ -442,19 +431,17 @@ This dashboard provides deeper insights into customer segments and marketing fun
 
 ### Key Features
 
-* Marketing Funnel
-* ROI Distribution
-* Customer Segment Performance
-* Revenue Trend
-* Channel Performance Matrix
-* Customer Engagement
-* Executive Business Insights
+- Marketing Funnel
+- ROI Distribution
+- Customer Segment Performance
+- Revenue Trend
+- Channel Performance Matrix
+- Customer Engagement
+- Executive Business Insights
 
 ### Dashboard Preview
 
 ![Customer & Marketing Insights Dashboard](screenshots/Customer_&_Marketing_Insights.png)
-
----
 
 # 📌 Key KPIs
 
