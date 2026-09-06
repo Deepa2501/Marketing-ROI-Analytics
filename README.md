@@ -400,7 +400,6 @@ The Executive Overview provides a high-level summary of overall marketing perfor
 - Interactive Filters
 
 ### Dashboard Preview
-
 ![Executive Overview Dashboard](screenshots/Executive_Overview.png)
 
 ---
@@ -420,7 +419,6 @@ The Campaign Performance dashboard focuses on campaign-level and channel-level e
 - Campaign Effectiveness
 
 ### Dashboard Preview
-
 ![Campaign Performance Dashboard](screenshots/Campaign_performance.png)
 
 ---
@@ -440,7 +438,6 @@ This dashboard provides deeper insights into customer segments and marketing fun
 - Executive Business Insights
 
 ### Dashboard Preview
-
 ![Customer & Marketing Insights Dashboard](screenshots/Customer_&_Marketing_Insights.png)
 
 # 📌 Key KPIs
@@ -570,8 +567,8 @@ Marketing-ROI-Analytics/
 │   └── Marketing_ROI_Analytics.pbix
 │
 ├── 📁 screenshots/
-│   ├── executive_overview.png
-│   ├── campaign_performance.png
+│   ├── Executive_Overview.png
+│   ├── Campaign_performance.png
 │   └── Customer_&_Marketing_Insights.png
 │
 ├── 📁 reports/
